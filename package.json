@@ -1,0 +1,15 @@
+{
+  "name": "StreamSimplified",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ZephDio/StreamSimplified.git",
+  "author": "Nicolas <nicolas.roure@gojob.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "yarn jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.3",
+    "typescript": "^4.8.3"
+  }
+}
